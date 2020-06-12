@@ -16,4 +16,3 @@ def bubble_sort(arr)
 end
 
 print bubble_sort([200, 6, 8, 9, 1, 56, 23, 1, 8])
-puts ' '
