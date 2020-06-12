@@ -46,8 +46,9 @@ $ git clone https://github.com/jacobrees/Bubble-Sort.git
 
 👤 **Jacob Rees**
 
-- Github: https://github.com/jacobrees
-- Linkedin: https://www.linkedin.com/in/jacob-rees-a6507b1a6/
+- Github: [jacobrees](https://github.com/jacobrees)
+- Linkedin: [jacob-rees-a6507b1a6](https://www.linkedin.com/in/jacob-rees-a6507b1a6/)
+
 
 ## 🤝 Contributing
 
@@ -55,9 +56,11 @@ Contributions, issues and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/jacobrees/Bubble-Sort/issues).
 
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
 
 ## Acknowledgments
 
