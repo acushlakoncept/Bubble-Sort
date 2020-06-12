@@ -12,7 +12,7 @@ def bubble_sort(arr)
   arr
 end
 
-print bubble_sort([1, 2, 5, 3, 6, 5, 6, 6, 7, 4, 3])
+bubble_sort([1, 2, 5, 3, 6, 5, 6, 6, 7, 4, 3])
 
 def bubble_sort_by(arr)
   i = 0
