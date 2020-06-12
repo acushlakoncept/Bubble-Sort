@@ -1,10 +1,10 @@
-## Bubble Sort Algorithm
+# Bubble Sort Algorithm
 
 This is the first project that welcomes us into the Ruby Section of the *Microverse Remote Software Development Curriculum*.
 
 This is a quick extract that helps explains the underlying concepts of bubble sort
 
-# Bubble Sort Algorithm: Steps on how it works:
+### Bubble Sort Algorithm: Steps on how it works:
 In an unsorted array of 5 elements, start with the first two elements and sort them in ascending order. (Compare the element to check which one is greater).
 
 - Compare the second and third element to check which one is greater, and sort them in ascending order.
