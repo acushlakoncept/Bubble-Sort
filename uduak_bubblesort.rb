@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 def bubble_sort(arr)
   swap_test = true
   (0...arr.length).each do |_i|

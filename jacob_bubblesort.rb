@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 def bubble_sort(arr)
   i = 0
   arr_length = arr.length - 1
@@ -13,3 +11,5 @@ def bubble_sort(arr)
   end
   arr
 end
+
+print bubble_sort([1, 2, 5, 3, 6, 7, 4, 3])
