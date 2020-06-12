@@ -21,7 +21,8 @@ Simple right? Below is a simple animated illustration:
 - Ruby
 
 ## Live Code
-[Live Demo Link](https://repl.it/@Acushla/Bubble-Sort-7#uduak_bubblesort.rb)
+[Jacob Solution](https://repl.it/@jacobrees24/Bubble-Sort#jacob_bubblesort.rb)
+[Uduak Solution](https://repl.it/@Acushla/Bubble-Sort-7#uduak_bubblesort.rb)
 
 
 ## Getting Started
