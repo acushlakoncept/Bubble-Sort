@@ -1,23 +1,20 @@
+# frozen_string_literal: true
+
 def bubble_sort(arr)
-  swapTest = true
-  
-  for i in (0...arr.length)
-    for j in (0...arr.length-1)
-     
-     if arr[j] > arr[j+1]       
-         # swap
-         temp = arr[j]
-         arr[j] = arr[j+1]
-         arr[j+1] = temp
+  swap_test = true
+  (0...arr.length).each do |_i|
+    (0...arr.length - 1).each do |j|
+      next unless arr[j] > arr[j + 1]
 
-         swapTest = false
-     end
+      temp = arr[j]
+      arr[j] = arr[j + 1]
+      arr[j + 1] = temp
+      swap_test = false
     end
-    break if swapTest
- end
+    break if swap_test
+  end
 
- return arr
-    
+  arr
 end
 
 print bubble_sort([200, 6, 8, 9, 1, 56, 23, 1, 8])
