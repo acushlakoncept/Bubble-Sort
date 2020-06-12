@@ -31,8 +31,8 @@ def bubble_sort_by(arr)
   arr
 end
 
-bsort_by = bubble_sort_by(%w[hello hey hi here]) do |a, b|
-  a.length - b.length
+bsort_by = bubble_sort_by(%w[hello hey hi here]) do |left, right|
+  left.length - right.length
 end
 
 p bubble_sort([200, 6, 8, 9, 1, 56, 23, 1, 8])
