@@ -1,0 +1,2 @@
+language = "bash"
+run = "irb jacob_bubblesort.rb"
