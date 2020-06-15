@@ -1,2 +1,2 @@
-language = "bash"
-run = "irb jacob_bubblesort.rb"
+language = "ruby"
+run = "ruby uduak_bubblesort.rb"
